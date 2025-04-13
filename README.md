@@ -17,14 +17,16 @@ Universal2Maker is a simple application that automates this process. Simply ente
 
 ## How to install
 - Make sure you are using python3 universal version
-- Download the dependencies:
+- Download the repository:
+### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akascape/Universal2Maker?&color=white&label=Download%20Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/Universal2Maker/archive/refs/heads/main.zip)
+
+- Download the dependencies using **pip3**:
   - tk
   - customtkinter
   - delocate
   - requests
 - Run the universal2maker.py
 - Type the package name and click on `Install` button
-
 
 Follow me for more stuff like this: [`Akascape`](https://github.com/Akascape/)
 ### That's all, hope it will help!
