@@ -9,6 +9,8 @@ This application allows users to input a package name, checks its availability o
 installs the package for both x86_64 and arm64 architectures, merges the wheels into a universal wheel,
 and provides an option to install the universal wheel or save it to a specified location.
 
+https://github.com/Akascape/Universal2Maker
+
 Dependencies:
 - tk
 - customtkinter
