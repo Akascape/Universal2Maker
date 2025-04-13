@@ -25,7 +25,7 @@ Universal2Maker is a simple application that automates this process. Simply ente
   - customtkinter
   - delocate
   - requests
-- Run the universal2maker.py
+- Run the *universal2maker.py*
 - Type the package name and click on `Install` button
 
 Follow me for more stuff like this: [`Akascape`](https://github.com/Akascape/)
