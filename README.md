@@ -28,6 +28,8 @@ Universal2Maker is a simple application that automates this process. Simply ente
 - Run the *universal2maker.py*
 - Type the package name and click on `Install` button
 
+🧾 Read this guide for more details: [https://www.akascape.com/coding/universal-app-in-pyinstaller](https://www.akascape.com/coding/universal-app-in-pyinstaller)
+
 Follow me for more tools like this: [`Akascape`](https://github.com/Akascape/)
 ### That's all, hope it will help!
 
